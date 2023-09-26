@@ -1,1 +1,1 @@
-# Download flickr8k and name it flickr8k
+# Download flickr8k and name the folder flickr8k
