@@ -1,6 +1,6 @@
 # Handwriting digits and alphabets Recognition
 I built a Handwriting Recognition with 2 difference ways <br />
-Digits : __sklearn__ <br /> 
+Digits : __Scikit-Learn__ <br /> 
 Alphabets : __TensorFlow__ <br /> 
 
 using kaggle dataset <br />
